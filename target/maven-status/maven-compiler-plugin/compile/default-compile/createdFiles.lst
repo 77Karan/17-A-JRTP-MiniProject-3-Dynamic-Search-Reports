@@ -1,0 +1,9 @@
+in\ashokit\Application.class
+in\ashokit\bindings\ContactForm.class
+in\ashokit\service\ContactService.class
+in\ashokit\entitiy\Contact.class
+in\ashokit\ServletInitializer.class
+in\ashokit\config\SwaggerConfig.class
+in\ashokit\repositories\ContactRepository.class
+in\ashokit\service\ContactServiceImpl.class
+in\ashokit\rest\ContactController.class
